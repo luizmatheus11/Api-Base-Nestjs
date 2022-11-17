@@ -24,6 +24,11 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Documentation
+
+```bash
+$ localhost:port/api
+```
 ## Stay in touch
 
 - Author - [Luiz Matheus](https://github.com/luizmatheus11)
