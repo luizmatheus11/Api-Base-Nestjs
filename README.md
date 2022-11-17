@@ -24,9 +24,6 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Support
-
-
 ## Stay in touch
 
 - Author - [Luiz Matheus](https://github.com/luizmatheus11)
